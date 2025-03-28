@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - 🏗 Currently working on a game codenamed _Trench Commander_.
 - ⚙ Learning GDScript and the Godot Engine.
+
+- 📫 If you're interested in what I'm doing, feel free to reach out to me at: liewyl061120_at_gmail_dot_com
